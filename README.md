@@ -1,1 +1,1 @@
-# -computer-world.io
+# -computerworld.io
